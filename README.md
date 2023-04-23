@@ -83,6 +83,6 @@ The following animation shows the web application's appearance and functionality
 
 ## Links
 
-GitHub Repository: 
+GitHub Repository: <https://github.com/Vinni99/orm-challenge.git>
 
-Video Walkthrough:
+Video Walkthrough: <https://drive.google.com/file/d/1ehynxLuOaI5wkmfbBQ1gyPXUUpgADhod/view>
